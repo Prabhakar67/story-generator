@@ -1,0 +1,38 @@
+.service-form {
+  background: #fff;
+  border-radius: 8px;
+  padding: 24px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  margin-top: 24px;
+}
+
+.service-form .form-group {
+  margin-bottom: 12px;
+}
+
+.service-form label {
+  display: block;
+  margin-bottom: 4px;
+  font-weight: 500;
+}
+
+.service-form input {
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  width: 100%;
+}
+
+.service-form button {
+  background: #007bff;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.service-form button:hover {
+  background: #0056b3;
+}
